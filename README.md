@@ -9,7 +9,7 @@
 
 ## <img width="45" alt="about" src="https://github.com/pliniopereira10/imagens/blob/main/java-14-logo-png-transparent.png"> Mais sobre mim
 
-<img align="right" width="220" height="220" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="220" height="210" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```java
 public class PlinioPereira {
