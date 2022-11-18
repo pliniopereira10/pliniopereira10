@@ -23,3 +23,17 @@ public class PlinioPereira {
 
 }
 ```
+## **Linguagens e Ferramentas:**  
+
+<code><img height="30" src="https://github.com/pliniopereira10/imagens/blob/main/java-14-logo-png-transparent.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img height="30" src="https://clipground.com/images/spring-framework-logo-png-7.png"></code>
+<code><img height="30" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png"></code>
+<code><img height="30" src="https://bospar.com/wp-content/uploads/2021/08/pm-logo-vert-300x150.jpg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
