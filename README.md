@@ -37,3 +37,11 @@ public class PlinioPereira {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=pliniopereira10&show_icons=true&theme=vision-friendly-dark" alt="Plinio Pereira's stats"/>
+<img width="440em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pliniopereira10&layout=compact&theme=vision-friendly-dark" alt="Plinio Pereira's most languages"/>
+</p>
+<br>
+</p>
