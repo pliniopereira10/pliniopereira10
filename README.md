@@ -40,8 +40,8 @@ public class PlinioPereira {
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=pliniopereira10&show_icons=true&theme=vision-friendly-dark" alt="Plinio Pereira's stats"/>
-<img width="440em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pliniopereira10&layout=compact&theme=vision-friendly-dark" alt="Plinio Pereira's most languages"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=pliniopereira10&show_icons=true&theme=vision-friendly-dark" alt="Plinio Pereira's stats"/>
+<img width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pliniopereira10&layout=compact&theme=vision-friendly-dark" alt="Plinio Pereira's most languages"/>
 </p>
 <br>
 </p>
